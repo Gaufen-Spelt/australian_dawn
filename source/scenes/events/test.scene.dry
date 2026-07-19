@@ -1,0 +1,9 @@
+title: Test Scene
+tags: event
+max-visits: 1
+new-page: true
+view-if: 1 == 1
+
+= Test Scene of this game.
+
+Go ahead.
